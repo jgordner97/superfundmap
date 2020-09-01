@@ -1,0 +1,1637 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Superfund_NPL_Site_Points" id="Superfund_NPL_Site_Points">
+	<SimpleField name="DETAIL_SEQ_NO" type="int"></SimpleField>
+	<SimpleField name="ACTIVITY_DETAIL_NAME" type="string"></SimpleField>
+	<SimpleField name="ACTIVITY_DETAIL_NO" type="string"></SimpleField>
+	<SimpleField name="LOC_ADDR" type="string"></SimpleField>
+	<SimpleField name="LOC_CITY" type="string"></SimpleField>
+	<SimpleField name="FACILITY_ID_NO" type="string"></SimpleField>
+	<SimpleField name="START_DATE" type="string"></SimpleField>
+	<SimpleField name="END_DATE" type="string"></SimpleField>
+	<SimpleField name="WTM91_X_AMT" type="float"></SimpleField>
+	<SimpleField name="WTM91_Y_AMT" type="float"></SimpleField>
+	<SimpleField name="OBJECTID" type="int"></SimpleField>
+	<SimpleField name="ERP_SUPERFUND_FLAG" type="string"></SimpleField>
+	<SimpleField name="NPL_FLAG" type="string"></SimpleField>
+	<SimpleField name="GREENSPACE_FLAG" type="string"></SimpleField>
+	<SimpleField name="SAG_FLAG" type="string"></SimpleField>
+	<SimpleField name="VPLE_COC_FLAG" type="string"></SimpleField>
+	<SimpleField name="DERF_FLAG" type="string"></SimpleField>
+	<SimpleField name="SUDZ_FLAG" type="string"></SimpleField>
+	<SimpleField name="RFR_FLAG" type="string"></SimpleField>
+	<SimpleField name="GLC_FLAG" type="string"></SimpleField>
+	<SimpleField name="SFR_FLAG" type="string"></SimpleField>
+	<SimpleField name="WAM_FLAG" type="string"></SimpleField>
+</Schema>
+<Folder><name>Superfund_NPL_Site_Points</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32763</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">ASHLAND NSP LAKEFRONT MGP (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0202000013</SimpleData>
+		<SimpleData name="LOC_ADDR">220 2nd St E</SimpleData>
+		<SimpleData name="LOC_CITY">Ashland</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">802060050</SimpleData>
+		<SimpleData name="START_DATE">1989/02/15 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">452474</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">680473</SimpleData>
+		<SimpleData name="OBJECTID">216395</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.8815544257125,46.5944245039991</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529567</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">W M W I - MUSKEGO (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0268529567</SimpleData>
+		<SimpleData name="LOC_ADDR">S82 W21595 Wauer Ln</SimpleData>
+		<SimpleData name="LOC_CITY">Muskego</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">268152500</SimpleData>
+		<SimpleData name="START_DATE">2002/09/30 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">668381.7411</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">270520.9416</SimpleData>
+		<SimpleData name="OBJECTID">216977</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.1827284632216,42.8928766728247</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33709</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC GREEN BAY MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0205000254</SimpleData>
+		<SimpleData name="LOC_ADDR">700 N Adams St</SimpleData>
+		<SimpleData name="LOC_CITY">Green Bay</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">405063890</SimpleData>
+		<SimpleData name="START_DATE">1986/01/07 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">678263.9096</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">451342.8324</SimpleData>
+		<SimpleData name="OBJECTID">217846</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0085955495428,44.518049448495</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33914</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">ONALASKA LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0232000311</SimpleData>
+		<SimpleData name="LOC_ADDR">Sportsman Club Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Onalaska</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">632013360</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">412648.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">388029.9999</SimpleData>
+		<SimpleData name="OBJECTID">218070</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.3380154977496,43.9575664025449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33058</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC STEVENS POINT MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0250000079</SimpleData>
+		<SimpleData name="LOC_ADDR">1111 Crosby Ave</SimpleData>
+		<SimpleData name="LOC_CITY">Stevens Point</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">750081200</SimpleData>
+		<SimpleData name="START_DATE">1986/02/05 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">552714.7579</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">450282.232100001</SimpleData>
+		<SimpleData name="OBJECTID">219431</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.588305198203,44.5251232363511</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529577</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">KOHLER CO LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0260529577</SimpleData>
+		<SimpleData name="LOC_ADDR">Cth Pp</SimpleData>
+		<SimpleData name="LOC_CITY">Kohler Vil</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">460015380</SimpleData>
+		<SimpleData name="START_DATE">1980/08/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">700154.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">365117.0001</SimpleData>
+		<SimpleData name="OBJECTID">219725</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7628425234247,43.7371990691089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32714</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">ALGOMA CITY LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0231000003</SimpleData>
+		<SimpleData name="LOC_ADDR">Sth 54 W</SimpleData>
+		<SimpleData name="LOC_CITY">Ahnapee Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">431006180</SimpleData>
+		<SimpleData name="START_DATE">1981/06/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">719150.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">461193</SimpleData>
+		<SimpleData name="OBJECTID">219805</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.4907669013939,44.5965177818829</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32846</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">BETTER BRITE - ZINC (SF NPL) STATE LEAD</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0205000031</SimpleData>
+		<SimpleData name="LOC_ADDR">315 S 6th St</SimpleData>
+		<SimpleData name="LOC_CITY">De Pere City</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">405011090</SimpleData>
+		<SimpleData name="START_DATE">1978/12/21 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">673169.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">443082</SimpleData>
+		<SimpleData name="OBJECTID">220229</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0751009971263,44.4448207153582</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33413</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">SCHMALZ UNLICENSED DUMP (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0208000169</SimpleData>
+		<SimpleData name="LOC_ADDR">W7258 Firelane 2</SimpleData>
+		<SimpleData name="LOC_CITY">Harrison Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">408009030</SimpleData>
+		<SimpleData name="START_DATE">1983/05/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">647980</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">416500</SimpleData>
+		<SimpleData name="OBJECTID">220265</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.3980557755593,44.2104932499127</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35285</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">AMCAST IND CORP (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0246000795</SimpleData>
+		<SimpleData name="LOC_ADDR">N39 W5789 Hamilton Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Cedarburg</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">246003780</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">683710.4217</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">314936.738600001</SimpleData>
+		<SimpleData name="OBJECTID">220298</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.9820158915156,43.2894586347746</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33588</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC MANITOWOC MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0236000219</SimpleData>
+		<SimpleData name="LOC_ADDR">402 N 10th St</SimpleData>
+		<SimpleData name="LOC_CITY">Manitowoc</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">436033950</SimpleData>
+		<SimpleData name="START_DATE">1989/05/02 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">707189.875</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">405173.343699999</SimpleData>
+		<SimpleData name="OBJECTID">220832</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.661462929418,44.0958100169668</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35429</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">HAGEN FARM (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0213000884</SimpleData>
+		<SimpleData name="LOC_ADDR">2318 Cth A</SimpleData>
+		<SimpleData name="LOC_CITY">Stoughton</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">113176030</SimpleData>
+		<SimpleData name="START_DATE">1984/02/06 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">586624</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">271054.0001</SimpleData>
+		<SimpleData name="OBJECTID">222825</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.1838143325717,42.9091929503443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35638</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">JANESVILLE ASH BEDS (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0254000991</SimpleData>
+		<SimpleData name="LOC_ADDR">Black Bridge Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Janesville</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">154010560</SimpleData>
+		<SimpleData name="START_DATE">1983/06/02 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">599638</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">248384.0001</SimpleData>
+		<SimpleData name="OBJECTID">225337</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.0276080085502,42.7038225972258</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32916</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC MARINETTE MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0238000047</SimpleData>
+		<SimpleData name="LOC_ADDR">1603 Ely St</SimpleData>
+		<SimpleData name="LOC_CITY">Marinette</SimpleData>
+		<SimpleData name="START_DATE">1989/10/16 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">707009.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">516604.9999</SimpleData>
+		<SimpleData name="OBJECTID">226539</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.6231860157313,45.0981772131439</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33717</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC OSHKOSH (CEAPE AVE) MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0271000256</SimpleData>
+		<SimpleData name="LOC_ADDR">303 Ceape Ave</SimpleData>
+		<SimpleData name="LOC_CITY">Oshkosh City</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">471034520</SimpleData>
+		<SimpleData name="START_DATE">1985/07/02 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">637504.6057</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">394400.343</SimpleData>
+		<SimpleData name="OBJECTID">226991</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.5340591766395,44.013351455927</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33759</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">NATIONAL PRESTO (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0209000267</SimpleData>
+		<SimpleData name="LOC_ADDR">3925 N Hastings Way</SimpleData>
+		<SimpleData name="LOC_CITY">Eau Claire</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">609038320</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">405275.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">488547.9999</SimpleData>
+		<SimpleData name="OBJECTID">227078</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.4521136815508,44.8611164708355</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35489</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">RIPON CITY LF (FF-NN) (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0220000915</SimpleData>
+		<SimpleData name="LOC_ADDR">N8901 S Koro Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Ripon Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">420013660</SimpleData>
+		<SimpleData name="START_DATE">1984/07/25 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">610713.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">377706.0001</SimpleData>
+		<SimpleData name="OBJECTID">227415</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.8710742240401,43.866870845002</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32842</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">BETTER BRITE - CHROME (SF NPL) STATE LEAD</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0205000030</SimpleData>
+		<SimpleData name="LOC_ADDR">519 Lande St</SimpleData>
+		<SimpleData name="LOC_CITY">De Pere</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">405022420</SimpleData>
+		<SimpleData name="START_DATE">1978/12/21 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">673150</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">442358</SimpleData>
+		<SimpleData name="OBJECTID">227801</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0755661325431,44.4383105979156</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35636</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WHEELER PIT (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0254000990</SimpleData>
+		<SimpleData name="LOC_ADDR">Cth O</SimpleData>
+		<SimpleData name="LOC_CITY">La Prairie Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">154050380</SimpleData>
+		<SimpleData name="START_DATE">1983/06/10 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">603988</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">244189</SimpleData>
+		<SimpleData name="OBJECTID">228050</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.9751230585066,42.6655870214389</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35470</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">OCONOMOWOC ELECTROPLATING (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0214000905</SimpleData>
+		<SimpleData name="LOC_ADDR">W2573 Oak St</SimpleData>
+		<SimpleData name="LOC_CITY">Ashippun</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">114004220</SimpleData>
+		<SimpleData name="START_DATE">1983/05/23 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">640035</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">305651</SimpleData>
+		<SimpleData name="OBJECTID">228147</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.5221978535749,43.2141021300644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529579</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">DELAVAN MUNICIPAL WELL #4 (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0265529579</SimpleData>
+		<SimpleData name="LOC_ADDR">290 S Wright St</SimpleData>
+		<SimpleData name="LOC_CITY">Delavan</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">265091640</SimpleData>
+		<SimpleData name="START_DATE">1983/05/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">632920.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">240825.9999</SimpleData>
+		<SimpleData name="OBJECTID">228211</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.6228305796862,42.6316077195908</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33179</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">CEDAR CREEK (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0246000107</SimpleData>
+		<SimpleData name="LOC_ADDR">Stream Mi 1.3 &amp; 5.7 Of Cree</SimpleData>
+		<SimpleData name="LOC_CITY">Cedarburg</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">246074620</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">683885.7499</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">315933.968900001</SimpleData>
+		<SimpleData name="OBJECTID">228786</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.9795588264427,43.2983945887563</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33751</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">TOMAH SANITARY LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0242000265</SimpleData>
+		<SimpleData name="LOC_ADDR">Noth Ave &amp; Cth Et</SimpleData>
+		<SimpleData name="LOC_CITY">Tomah</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">642009720</SimpleData>
+		<SimpleData name="START_DATE">1984/06/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">478118.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">391364.9999</SimpleData>
+		<SimpleData name="OBJECTID">228836</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.522337229983,43.9942337419733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35421</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">STOUGHTON CTY LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0213000880</SimpleData>
+		<SimpleData name="LOC_ADDR">Amundson Pkwy &amp; Skogdalen Dr</SimpleData>
+		<SimpleData name="LOC_CITY">Stoughton</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">113005950</SimpleData>
+		<SimpleData name="START_DATE">1984/01/06 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">584745.0002</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">272774.0001</SimpleData>
+		<SimpleData name="OBJECTID">229025</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.2066323976456,42.9248422339358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">531300</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FOX RIVER NRDA/PCB RELEASES OU4 (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">1005531300</SimpleData>
+		<SimpleData name="START_DATE">1998/07/28 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">2020/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">676730.0214</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">448467.326099999</SimpleData>
+		<SimpleData name="OBJECTID">229083</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0287571664189,44.4925122718408</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33788</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">EAU CLAIRE WELL FIELDS (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0218000275</SimpleData>
+		<SimpleData name="LOC_ADDR">2711 Riverview Dr</SimpleData>
+		<SimpleData name="LOC_CITY">Eau Claire</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">618055240</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">2019/02/27 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">401307.0002</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">488322</SimpleData>
+		<SimpleData name="OBJECTID">229867</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.5022681518262,44.8584331268858</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">552940</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MILLER COMPRESSING (BURNHAM CANAL) (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0241552940</SimpleData>
+		<SimpleData name="LOC_ADDR">1640 W Bruce St</SimpleData>
+		<SimpleData name="LOC_CITY">Milwaukee</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">241213720</SimpleData>
+		<SimpleData name="START_DATE">2008/07/02 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">688312.2032</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">285802.7103</SimpleData>
+		<SimpleData name="OBJECTID">229986</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.934182526009,43.0262683236975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35361</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">REFUSE HIDEAWAY (SF NPL) SL</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0213000849</SimpleData>
+		<SimpleData name="LOC_ADDR">7562 Ush 14</SimpleData>
+		<SimpleData name="LOC_CITY">Middleton</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">113112010</SimpleData>
+		<SimpleData name="START_DATE">1983/12/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">554310.0002</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">291806.0001</SimpleData>
+		<SimpleData name="OBJECTID">231878</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.5783897600413,43.0981992460442</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32782</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WAUSAU GW CONTAMINATION (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0237000017</SimpleData>
+		<SimpleData name="LOC_ADDR">E Randolph &amp; Cherry Sts</SimpleData>
+		<SimpleData name="LOC_CITY">Wausau</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">737105820</SimpleData>
+		<SimpleData name="START_DATE">1983/02/15 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">548914.0002</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">500547.9999</SimpleData>
+		<SimpleData name="OBJECTID">231947</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.633283962559,44.97778496115</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33195</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">LEMBERGER FLY ASH LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0236000112</SimpleData>
+		<SimpleData name="LOC_ADDR">6114 Hempton Lake Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Franklin Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">436016790</SimpleData>
+		<SimpleData name="START_DATE">1984/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">692394.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">413342.0001</SimpleData>
+		<SimpleData name="OBJECTID">232175</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8434965306465,44.1729359552673</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">32786</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">SPICKLER LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0237000018</SimpleData>
+		<SimpleData name="LOC_ADDR">2550 Eckes Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Spencer Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">737054780</SimpleData>
+		<SimpleData name="START_DATE">1987/07/07 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">498889</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">468511.0001</SimpleData>
+		<SimpleData name="OBJECTID">232435</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.2664198202482,44.6896598352825</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33987</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">NORTHERN ENGRAVING (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0242000331</SimpleData>
+		<SimpleData name="LOC_ADDR">803 S Black River St</SimpleData>
+		<SimpleData name="LOC_CITY">Sparta</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">642025010</SimpleData>
+		<SimpleData name="START_DATE">1984/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">454450.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">384915</SimpleData>
+		<SimpleData name="OBJECTID">232436</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.8166832539699,43.9344361996391</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33199</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">LEMBERGER TRANSPRT &amp; RECYCLING SITE (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0236000113</SimpleData>
+		<SimpleData name="LOC_ADDR">Hempton Lake Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Franklin Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">436029770</SimpleData>
+		<SimpleData name="START_DATE">1981/06/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">692266</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">412550.9999</SimpleData>
+		<SimpleData name="OBJECTID">234374</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8453557932294,44.1658496401736</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33129</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC CAMPMARINA MGP (ALT SF) </SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0260000095</SimpleData>
+		<SimpleData name="LOC_ADDR">732 N Water St</SimpleData>
+		<SimpleData name="LOC_CITY">Sheboygan</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">460134950</SimpleData>
+		<SimpleData name="START_DATE">1990/08/27 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">703810.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">366800.9999</SimpleData>
+		<SimpleData name="OBJECTID">237226</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7168889751946,43.7514519762288</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">531325</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">W M W I - OMEGA HILLS LF (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0267531325</SimpleData>
+		<SimpleData name="LOC_ADDR">N96 W12730 County Line Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Germantown</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">267058660</SimpleData>
+		<SimpleData name="START_DATE">1979/04/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">676531.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">304262</SimpleData>
+		<SimpleData name="OBJECTID">238212</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0734936067199,43.1949170287775</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529589</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">SHEBOYGAN RIVER &amp; HARBOR (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0260529589</SimpleData>
+		<SimpleData name="LOC_ADDR">2025 Maryland Ave</SimpleData>
+		<SimpleData name="LOC_CITY">Sheboygan</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">460143200</SimpleData>
+		<SimpleData name="START_DATE">1991/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">702007.2739</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">365726.9607</SimpleData>
+		<SimpleData name="OBJECTID">238756</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.7396395450919,43.7422341805522</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35425</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">CITY DISPOSAL LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0213000882</SimpleData>
+		<SimpleData name="LOC_ADDR">1847 Sandhill Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Dunn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">113118830</SimpleData>
+		<SimpleData name="START_DATE">1983/06/02 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">572136.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">275389.0001</SimpleData>
+		<SimpleData name="OBJECTID">239004</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.3608856469562,42.9493558360906</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529578</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">W M W I - BOUNDARY RD (LAUER 1) (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0268529578</SimpleData>
+		<SimpleData name="LOC_ADDR">W124 N8925 Boundary Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Menomonee Falls</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">268152390</SimpleData>
+		<SimpleData name="START_DATE">1979/04/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">677070.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">302824.0001</SimpleData>
+		<SimpleData name="OBJECTID">239096</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0672720710325,43.1818636432092</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">34765</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">PENTA WOOD PRODUCTS (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0207000532</SimpleData>
+		<SimpleData name="LOC_ADDR">8682 Sth 70</SimpleData>
+		<SimpleData name="LOC_CITY">Siren</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">807050310</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">331158.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">593139</SimpleData>
+		<SimpleData name="OBJECTID">239253</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-92.4294572545869,45.7859776806444</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33745</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">TOMAH ARMORY (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0242000263</SimpleData>
+		<SimpleData name="LOC_ADDR">520 Mill St</SimpleData>
+		<SimpleData name="LOC_CITY">Tomah</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">642049760</SimpleData>
+		<SimpleData name="START_DATE">1984/06/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">479849.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">391197.0001</SimpleData>
+		<SimpleData name="OBJECTID">239398</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.5007369358778,43.9928178576266</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529585</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MOSS AMERICAN KERR MCGEE (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0241529585</SimpleData>
+		<SimpleData name="LOC_ADDR">8716 Granville Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Milwaukee</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">241378280</SimpleData>
+		<SimpleData name="START_DATE">1998/03/11 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">679333.6189</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">302247.7687</SimpleData>
+		<SimpleData name="OBJECTID">242631</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0396003523437,43.1762040123414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33249</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">N W MAUTHE (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0245000127</SimpleData>
+		<SimpleData name="LOC_ADDR">725 S Outagamie St</SimpleData>
+		<SimpleData name="LOC_CITY">Appleton</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">445014460</SimpleData>
+		<SimpleData name="START_DATE">1989/04/26 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">645400.0002</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">421461</SimpleData>
+		<SimpleData name="OBJECTID">243974</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.4291503661713,44.2555892638718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529575</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">W M W I - BROOKFIELD LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0268529575</SimpleData>
+		<SimpleData name="LOC_ADDR">1365 N Brookfield</SimpleData>
+		<SimpleData name="LOC_CITY">Brookfield</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">268152280</SimpleData>
+		<SimpleData name="START_DATE">1983/12/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">670712.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">287844.0001</SimpleData>
+		<SimpleData name="OBJECTID">244103</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.1495214994943,43.0483352072436</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35431</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MADISON MET SLUDGE LAGOONS (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0213000885</SimpleData>
+		<SimpleData name="LOC_ADDR">1610 Moorland Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Madison</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">113192970</SimpleData>
+		<SimpleData name="START_DATE">1984/08/10 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">573409.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">284873</SimpleData>
+		<SimpleData name="OBJECTID">244285</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.3443620211867,43.0346663829565</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35648</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">JANESVILLE DISPOSAL FACILITY (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0254000996</SimpleData>
+		<SimpleData name="LOC_ADDR">Black Bridge Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Janesville</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">154010560</SimpleData>
+		<SimpleData name="START_DATE">1980/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">600276</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">248368.0001</SimpleData>
+		<SimpleData name="OBJECTID">244287</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.0198213054576,42.7036121355202</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35664</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">SAUK CNTY LF (OLD) (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0257001004</SimpleData>
+		<SimpleData name="LOC_ADDR">Off Evergreen Ln</SimpleData>
+		<SimpleData name="LOC_CITY">Excelsior Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">157033140</SimpleData>
+		<SimpleData name="START_DATE">1988/09/03 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">529833.3822</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">337886.921399999</SimpleData>
+		<SimpleData name="OBJECTID">244511</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-89.8783386429849,43.5138517670066</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33784</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WRR ENVIRONMENTAL SRVCS (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0218000274</SimpleData>
+		<SimpleData name="LOC_ADDR">5200 Ryder Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Eau Claire</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">618026530</SimpleData>
+		<SimpleData name="START_DATE">1978/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">404613.1614</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">477009.3599</SimpleData>
+		<SimpleData name="OBJECTID">244709</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-91.4578694288316,44.7571699195659</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">210252</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MIDSTATE LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0237210252</SimpleData>
+		<SimpleData name="LOC_ADDR">C1742 Big Rapids Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Cleveland Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">737056320</SimpleData>
+		<SimpleData name="START_DATE">1985/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">516818.2246</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">486097.0474</SimpleData>
+		<SimpleData name="OBJECTID">244712</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.0402639036076,44.8482782250666</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529576</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">HUNTS DISPOSAL (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0252529576</SimpleData>
+		<SimpleData name="LOC_ADDR">8229 County Line Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Caledonia Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">252076330</SimpleData>
+		<SimpleData name="START_DATE">1979/04/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">693128</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">264746.9999</SimpleData>
+		<SimpleData name="OBJECTID">244778</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.8816204453159,42.8357057680502</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33748</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">TOMAH FAIRGROUNDS (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0242000264</SimpleData>
+		<SimpleData name="LOC_ADDR">Cth Cm</SimpleData>
+		<SimpleData name="LOC_CITY">Tomah</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">642049870</SimpleData>
+		<SimpleData name="START_DATE">1984/06/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">478398</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">388728</SimpleData>
+		<SimpleData name="OBJECTID">245696</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.5186385842822,43.9705082986498</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33333</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">SCRAP PROCESSING CO INC (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0261000149</SimpleData>
+		<SimpleData name="LOC_ADDR">510 W Allman St</SimpleData>
+		<SimpleData name="LOC_CITY">Medford</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">861010700</SimpleData>
+		<SimpleData name="START_DATE">1973/05/23 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">2018/07/30 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">492191.577</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">519480.2194</SimpleData>
+		<SimpleData name="OBJECTID">245710</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-90.3537437010704,45.1482504515611</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">35472</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">HECHIMOVICH SANITARY LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0214000906</SimpleData>
+		<SimpleData name="LOC_ADDR">Raaschs Hill Rd</SimpleData>
+		<SimpleData name="LOC_CITY">Williamstown Tn</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">114063950</SimpleData>
+		<SimpleData name="START_DATE">1984/12/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">636992.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">332924.0001</SimpleData>
+		<SimpleData name="OBJECTID">246564</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">Y</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.5538216545242,43.4600829726142</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">33713</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">WPSC TWO RIVERS MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0236000255</SimpleData>
+		<SimpleData name="LOC_ADDR">2000 21st St</SimpleData>
+		<SimpleData name="LOC_CITY">Two Rivers</SimpleData>
+		<SimpleData name="START_DATE">1986/01/07 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">713861.9982</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">411729.7226</SimpleData>
+		<SimpleData name="OBJECTID">248607</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.5757695097636,44.1530502986617</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529574</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MASTER DISPOSAL INC LF (SF NPL)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0268529574</SimpleData>
+		<SimpleData name="LOC_ADDR">19980 W Capitol Dr</SimpleData>
+		<SimpleData name="LOC_CITY">Pewaukee</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">268148100</SimpleData>
+		<SimpleData name="START_DATE">1983/05/01 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">669495.9999</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">292772.0001</SimpleData>
+		<SimpleData name="OBJECTID">248637</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.1631319933016,43.092929505564</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">529582</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FADROWSKI DRUM DISPOSAL SITE (DELETED SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0241529582</SimpleData>
+		<SimpleData name="LOC_ADDR">6865 S 27th St</SimpleData>
+		<SimpleData name="LOC_CITY">Franklin</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">241376520</SimpleData>
+		<SimpleData name="START_DATE">1998/02/20 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">686984.0001</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">274038.9999</SimpleData>
+		<SimpleData name="OBJECTID">248638</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.9539882002587,42.920695364883</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">466662</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">MILWAUKEE SOLVAY COKE &amp; GAS - MGP (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0241466662</SimpleData>
+		<SimpleData name="LOC_ADDR">311 E Greenfield Ave</SimpleData>
+		<SimpleData name="LOC_CITY">Milwaukee</SimpleData>
+		<SimpleData name="FACILITY_ID_NO">241219880</SimpleData>
+		<SimpleData name="START_DATE">2001/12/12 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">690470.9715</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">284813.605699999</SimpleData>
+		<SimpleData name="OBJECTID">251123</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.908005931573,43.0168861177318</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">582406</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FOX RIVER NRDA/PCB RELEASES OU1 (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0271582406</SimpleData>
+		<SimpleData name="LOC_ADDR">Fox River</SimpleData>
+		<SimpleData name="LOC_CITY">Covers Many Munic</SimpleData>
+		<SimpleData name="START_DATE">1998/07/28 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">643004</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">417836</SimpleData>
+		<SimpleData name="OBJECTID">263543</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.4600049032553,44.2233734650414</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">582407</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FOX RIVER NRDA/PCB RELEASES OU2-5 (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">0245582407</SimpleData>
+		<SimpleData name="LOC_ADDR">Fox River</SimpleData>
+		<SimpleData name="LOC_CITY">Covers Many Munic</SimpleData>
+		<SimpleData name="START_DATE">1998/07/28 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">1970/01/01 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">657627.7692</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">424713.200200001</SimpleData>
+		<SimpleData name="OBJECTID">265463</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.2751864983291,44.2826472148465</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">582408</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FOX RIVER NRDA/PCB RELEASES OU3 (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">1005582408</SimpleData>
+		<SimpleData name="START_DATE">1998/07/28 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">2020/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">672062.4064</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">439901.372199999</SimpleData>
+		<SimpleData name="OBJECTID">265464</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-88.0899451340586,44.4164356985063</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Superfund_NPL_Site_Points">
+		<SimpleData name="DETAIL_SEQ_NO">582409</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NAME">FOX RIVER NRDA/PCB RELEASES OU5 (ALT SF)</SimpleData>
+		<SimpleData name="ACTIVITY_DETAIL_NO">1005582409</SimpleData>
+		<SimpleData name="START_DATE">1998/07/28 00:00:00+00</SimpleData>
+		<SimpleData name="END_DATE">2020/04/30 00:00:00+00</SimpleData>
+		<SimpleData name="WTM91_X_AMT">684686.2316</SimpleData>
+		<SimpleData name="WTM91_Y_AMT">466160.8796</SimpleData>
+		<SimpleData name="OBJECTID">265465</SimpleData>
+		<SimpleData name="ERP_SUPERFUND_FLAG">N</SimpleData>
+		<SimpleData name="NPL_FLAG">Y</SimpleData>
+		<SimpleData name="GREENSPACE_FLAG">N</SimpleData>
+		<SimpleData name="SAG_FLAG">N</SimpleData>
+		<SimpleData name="VPLE_COC_FLAG">N</SimpleData>
+		<SimpleData name="DERF_FLAG">N</SimpleData>
+		<SimpleData name="SUDZ_FLAG">N</SimpleData>
+		<SimpleData name="RFR_FLAG">N</SimpleData>
+		<SimpleData name="GLC_FLAG">N</SimpleData>
+		<SimpleData name="SFR_FLAG">N</SimpleData>
+		<SimpleData name="WAM_FLAG">N</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-87.9230931891512,44.649925395843</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
