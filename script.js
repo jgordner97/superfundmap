@@ -28,10 +28,19 @@ var runLayer = omnivore.kml('Superfund_NPL_Site_Points_Wisconsin.kml')
     //     mymap.fitBounds(runLayer.getBounds());
     // })
     .addTo(mymap);
-
+    var runLayer = omnivore.kml('Layers.kml')
+    // .on('ready', function() {
+    //     mymap.fitBounds(runLayer.getBounds());
+    // })
+    .addTo(mymap);
     //https://hub.arcgis.com/datasets/mpca::sites-with-institutional-controls
 
-
+    var runLayer = omnivore.kml('cali_sites.kml')
+    // .on('ready', function() {
+    //     mymap.fitBounds(runLayer.getBounds());
+    // })
+    .addTo(mymap);
+    //https://www.google.com/maps/d/viewer?oe=UTF8&ie=UTF8&msa=0&mid=1GaMX746ZfjK4Zq9Iyh5n2qc6xeE&ll=38.34075774418084%2C-120.04820000000001&z=6
 var floridaLayer = L.geoJSON(floridaSites, {
     onEachFeature: function(feature, layer){
         layer.bindPopup('<h2>'+feature.properties.Name + '</h2>')
@@ -44,3 +53,4 @@ var floridaLayer = L.geoJSON(floridaSites, {
     }
 }).addTo(mymap)
 // L.geoJSON(floridaSites).addTo(mymap)
+
